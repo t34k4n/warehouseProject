@@ -4,6 +4,7 @@ Warehouse Management System Project Timeline
 -
 Week 1 (October 28 - November 3)
 Project Planning and Timeline Preparation
+-Update: Downloading and installing required softwares.
 -
 Week 2 (November 4 - November 10)
 Project Analysis and Functional Requirements Definition
