@@ -21,7 +21,7 @@ Warehouse Management System Project Timeline
 - Database Setup and DAO Layer Development
 
 ## Week 7 (December 9 - December 15)
-- Business Logic and User Interface Design
+- JavaFX and User Interface Design
 
 ## Week 8 (December 16 - December 22)
 - Module Completion and Log Module Integration
